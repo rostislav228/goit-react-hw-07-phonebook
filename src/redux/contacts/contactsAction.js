@@ -23,5 +23,4 @@ const setFilter = createAction("contacts/setFilter");
 //   type: 'contacts/setFilter',
 //   payload: value,
 // });
-
 export { addContact, deleteContact, setFilter };

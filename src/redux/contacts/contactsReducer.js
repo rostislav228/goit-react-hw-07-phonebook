@@ -33,5 +33,4 @@ const contactsReducer = combineReducers({
   isLoader,
   error,
 });
-
 export default contactsReducer;
